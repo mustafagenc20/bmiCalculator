@@ -71,7 +71,7 @@ public class Main {
 //        if (month == 12) System.out.println("December has 31 days");
 
 
-//        USTTEKEI KOD YERINE
+//        INSTEAD OF CODE ABOVE
 
         int month = 8;
         switch (month){
